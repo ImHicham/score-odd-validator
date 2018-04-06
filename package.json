@@ -1,0 +1,19 @@
+{
+  "name": "score-odd-validator",
+  "version": "0.0.0",
+  "description": "Check if result is valid for given odd type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "odd",
+    "odds",
+    "soccer",
+    "check",
+    "valid",
+    "football"
+  ],
+  "author": "Hicham El Hmidi <https://github.com/ImHicham>",
+  "license": "ISC"
+}
