@@ -1,0 +1,1 @@
+# score-odd-validator
